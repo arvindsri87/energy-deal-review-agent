@@ -15,7 +15,7 @@ Scaling AI across energy trading, commercial sales, and controlling requires bal
 
 ---
 
-## 2. MET Group 90-Day Enablement Roadmap
+## 2. Enterprise 90-Day Enablement Roadmap
 ### Days 1–30: Foundation & Governance
 * **Audit & Evaluation Baseline:** Establish automated evaluation suites (Pydantic validation, hallucination tracking) for all active LLM prompts.
 * **Architecture & Model Gateway:** Deploy unified LLM routing gateway to track token usage, cost-per-department, and latency across BUs.
